@@ -1,0 +1,22 @@
+{
+    "name": "Otávio Augusto (@vattghern203)",
+    "job": "Computes Science Student",
+    "github": "Vattghern203",
+    "avatar": "https://avatars.githubusercontent.com/u/75392842?v=4",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Some title",
+                "url": "url",
+                "thumbnail": "thumbnail"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Some title",
+                "url": "url",
+                "thumbnail": "thumbnail"
+            }
+        ]
+    }
+}
